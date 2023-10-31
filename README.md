@@ -1,2 +1,1 @@
-# i5-2023-study
-# LIKELION  | K-Digital Training BACK-END School 7기 회고 10팀 알고리즘 스터디
+LIKELION  | K-Digital Training BACK-END School 7기 회고 10팀 알고리즘 스터디
